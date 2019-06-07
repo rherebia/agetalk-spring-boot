@@ -1,0 +1,5 @@
+CREATE TABLE usuario (
+	id IDENTITY PRIMARY KEY,
+	-- postgresql: id SERIAL PRIMARY KEY,
+	nome VARCHAR(255)
+);

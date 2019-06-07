@@ -1,0 +1,1 @@
+INSERT INTO public.usuario (nome) VALUES ('Usuário -1');
